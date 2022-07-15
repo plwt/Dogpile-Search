@@ -1,0 +1,21 @@
+{
+	"manifest_version": 2,
+    	"name": "Dogpile Search",
+	"description": "Search using Dogpile directly from Firefox.",
+	"version": "0.1",
+	"applications":{
+		"gecko": {
+			"strict_min_version": "73.0"
+		}
+	},
+	"icons": {
+		"32": "icon.png"
+	},
+  	"chrome_settings_overrides": {
+		"search_provider": {
+		"name": "Dogpile",
+            	"keyword": "@DOG",
+		"search_url": "https://www.dogpile.com/serp?q={searchTerms}"
+		}
+	}
+}
