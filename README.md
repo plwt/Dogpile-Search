@@ -1,3 +1,3 @@
 # Dogpile Search
 
-Add-on for Firefox
+Add-on for Firefox.
