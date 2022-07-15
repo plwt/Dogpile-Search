@@ -14,7 +14,7 @@
   	"chrome_settings_overrides": {
 		"search_provider": {
 		"name": "Dogpile",
-            	"keyword": "@DOG",
+            	"keyword": "@dog",
 		"search_url": "https://www.dogpile.com/serp?q={searchTerms}"
 		}
 	}
