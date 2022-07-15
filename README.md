@@ -1,1 +1,1 @@
-# Dogpile Search for Firefox
+# Dogpile Search
